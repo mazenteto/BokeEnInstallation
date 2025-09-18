@@ -1,0 +1,6 @@
+@BokeEnInstallationAPI_HostAddress = http://localhost:5199
+
+GET {{BokeEnInstallationAPI_HostAddress}}/api/Booking/
+Accept: application/json
+
+###
